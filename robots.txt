@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simbjl.com.br/sitemap.xml
